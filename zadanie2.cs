@@ -14,7 +14,7 @@ namespace fafa
             Print();
         }
         public const string version = "1.12.2";
-        public const string name = "Уткин Ростислав;
+        public const string name = "Уткин Ростислав";
         public static void Print()
         {
             Console.WriteLine($"Версия: {version}");
@@ -22,5 +22,6 @@ namespace fafa
         }
     }
 }
+
 
 
